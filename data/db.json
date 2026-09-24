@@ -1,0 +1,143 @@
+{
+  "admin": {
+    "username": "Noxiusvideo",
+    "password_hash": "$2b$10$SiWn9MqecEcsLJNubRk7GO12mFbvHELgFxTMoXjoqdMN5aScsb.3C",
+    "created_at": "2026-09-23T13:44:27.986Z",
+    "updated_at": "2026-09-23T13:44:27.987Z"
+  },
+  "settings": {
+    "site_name": "Noxius Video",
+    "site_logo": "",
+    "adsterra_smartlink": "https://www.profitableratecpmnetwork.com/hdkjs77b?key=c3356c7e4bb7b947eca2122ea103e099",
+    "smartlink_enabled": true,
+    "default_invisible_duration_minutes": 10,
+    "max_upload_size_mb": 1024,
+    "last_updated": "2026-09-23T13:44:27.987Z"
+  },
+  "videos": [
+    {
+      "id": "vid_1790203685142_384d01b3",
+      "public_token": "XLC744BN",
+      "title": "1763955362 final",
+      "description": "",
+      "filename": "vid_1790203685142_384d01b3.mp4",
+      "file_path": "/app/applet/uploads/videos/vid_1790203685142_384d01b3.mp4",
+      "mime_type": "video/mp4",
+      "file_size": 76860115,
+      "thumbnail": "/api/thumbnails/thumb_auto_1790203685516_XLC744BN.jpg",
+      "duration_seconds": 379.7,
+      "width": 720,
+      "height": 1280,
+      "format": "mov,mp4,m4a,3gp,3g2,mj2",
+      "codec": "h264",
+      "access_mode": "INVISIBLE",
+      "status": "active",
+      "views": 3,
+      "created_at": "2026-09-23T22:48:05.725Z",
+      "updated_at": "2026-09-23T22:48:05.725Z"
+    },
+    {
+      "id": "vid_1790171249921_a30677b6",
+      "public_token": "SH6Z77CG",
+      "title": "8982e2a4b740f64ca7cda68f9b6269a4 1779256470557",
+      "description": "",
+      "filename": "vid_1790171249896_70620e6186f2.mp4",
+      "file_path": "/app/applet/uploads/videos/vid_1790171249896_70620e6186f2.mp4",
+      "mime_type": "video/mp4",
+      "file_size": 1803266,
+      "thumbnail": "/api/thumbnails/thumb_1790171249913_dff3f1cb8885.png",
+      "duration_seconds": 0,
+      "access_mode": "INVISIBLE",
+      "status": "active",
+      "views": 4,
+      "created_at": "2026-09-23T13:47:29.921Z",
+      "updated_at": "2026-09-23T13:47:29.921Z"
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": "ses_1790171265575_9ca5505c",
+      "video_id": "vid_1790171249921_a30677b6",
+      "public_token": "SH6Z77CG",
+      "session_token": "421b28fc14240a10121dd013ee6c3ca380f941470406f3b29f71b65233239414",
+      "duration_seconds": 600,
+      "created_at": "2026-09-23T13:47:45.575Z",
+      "expires_at": "2026-09-23T13:57:45.575Z",
+      "status": "active",
+      "ip_address": "103.87.251.11, 169.254.169.126",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "session_id": "ses_1790171329228_0e1a3903",
+      "video_id": "vid_1790171249921_a30677b6",
+      "public_token": "SH6Z77CG",
+      "session_token": "ee17fe46906c43f017947c52bfbc7c1b700f9fbe9cd400f192ce718ff7fcfecf",
+      "duration_seconds": 600,
+      "created_at": "2026-09-23T13:48:49.228Z",
+      "expires_at": "2026-09-23T13:58:49.228Z",
+      "status": "active",
+      "ip_address": "103.87.251.11, 169.254.169.126",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "session_id": "ses_1790202580290_c84d20c3",
+      "video_id": "vid_1790171249921_a30677b6",
+      "public_token": "SH6Z77CG",
+      "session_token": "f91f548ad5e1b9d20919ad5a6f5adc0cee93e1c0978a877707d2f3bb64991ce3",
+      "duration_seconds": 600,
+      "created_at": "2026-09-23T22:29:40.290Z",
+      "expires_at": "2026-09-23T22:39:40.290Z",
+      "status": "active",
+      "ip_address": "103.87.250.115, 169.254.169.126",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "session_id": "ses_1790203500229_255487dd",
+      "video_id": "vid_1790171249921_a30677b6",
+      "public_token": "SH6Z77CG",
+      "session_token": "afde106e9317e4a7dcfd9dfb8fcd4873990c8a3eacccd27d38beb24123cf25b8",
+      "duration_seconds": 600,
+      "created_at": "2026-09-23T22:45:00.229Z",
+      "expires_at": "2026-09-23T22:55:00.229Z",
+      "status": "active",
+      "ip_address": "103.87.250.115, 169.254.169.126",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "session_id": "ses_1790203727912_e917ae25",
+      "video_id": "vid_1790203685142_384d01b3",
+      "public_token": "XLC744BN",
+      "session_token": "fdaf1cc03679d5b63c01afca935aa6458052c1e6cecbdf1b0669e964b0af60d8",
+      "duration_seconds": 600,
+      "created_at": "2026-09-23T22:48:47.912Z",
+      "expires_at": "2026-09-23T22:58:47.912Z",
+      "status": "expired",
+      "ip_address": "103.87.250.115, 169.254.169.126",
+      "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "session_id": "ses_1790204080517_4320e755",
+      "video_id": "vid_1790203685142_384d01b3",
+      "public_token": "XLC744BN",
+      "session_token": "15f4db88f9806a87be547504eaffdb95eba13e6be2ff6c8ad60796f0d5c7dbac",
+      "duration_seconds": 600,
+      "created_at": "2026-09-23T22:54:40.517Z",
+      "expires_at": "2026-09-23T23:04:40.517Z",
+      "status": "active",
+      "ip_address": "127.0.0.1",
+      "user_agent": "curl/7.88.1"
+    },
+    {
+      "session_id": "ses_1790204340389_0f5b2f53",
+      "video_id": "vid_1790203685142_384d01b3",
+      "public_token": "XLC744BN",
+      "session_token": "1a98b41ed7d169bd33df22f9bb616ca13d0bd8b89d12e383c2e3f15dc53c5963",
+      "duration_seconds": 600,
+      "created_at": "2026-09-23T22:59:00.389Z",
+      "expires_at": "2026-09-23T23:09:00.389Z",
+      "status": "active",
+      "ip_address": "127.0.0.1",
+      "user_agent": "curl/7.88.1"
+    }
+  ]
+}

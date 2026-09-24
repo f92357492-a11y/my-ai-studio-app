@@ -1,0 +1,6 @@
+{
+  "name": "Noxius Video Host & Private Sharing",
+  "description": "High-performance video hosting and private video sharing platform with Visible and Invisible temporary 10-minute viewing sessions, Adsterra Smartlink integration, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
